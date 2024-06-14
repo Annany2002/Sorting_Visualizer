@@ -2,8 +2,6 @@
   <h1>Algorithms Visualizers</h1>
   <h2>Responsive visualizers built using React for popular algorithms</h2>
   <div>
-    <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/algo-visualizers?style=for-the-badge"></a>
-    <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/algo-visualizers?logoColor=green&style=for-the-badge"></a>
     <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/algo-visualizers?style=for-the-badge"></a>
   </div>
 
@@ -25,7 +23,6 @@ algorithms</a>
 
 This repo helps in learning popular algorithms by visualization
 
-<details>
   <summary>Sorting Visualizer</summary>
 
 <br>
@@ -53,12 +50,8 @@ Concepts
   property)
 - JavaScript async generators are used heavily for the controlled execution of
   algorithms
-
-</details>
-
-<br>
-
-<details>
+- Redux is used for state management
+- React hooks are used for state management and lifecycle methods
 
 <br>
 
