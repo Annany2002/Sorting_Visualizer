@@ -12,8 +12,6 @@
 <a href="https://sadanandpai.github.io/algo-visualizers/"><img src="./public/images/bar.png" alt="cover" /></a>
 <br/>
 <a href="https://sadanandpai.github.io/algo-visualizers/"><img src="./public/images/path.png" alt="cover" /></a>
-<a href="https://sadanandpai.github.io/algo-visualizers/">Visualize the
-algorithms</a>
 
 </div>
 
